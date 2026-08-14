@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:ff2d00,100:ffb300&height=220&section=header&text=HeatBD&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Real-Time%20Heatwave%20%26%20Health%20Safety%20Guide%20for%20Bangladesh%20%F0%9F%8C%A1%EF%B8%8F&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b00,50:ff2d00,100:ffb300&amp;height=220&amp;section=header&amp;text=HeatBD&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Real-Time%20Heatwave%20%26%20Health%20Safety%20Guide%20for%20Bangladesh%20%F0%9F%8C%A1%EF%B8%8F&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Real-Time+Feels-Like+Temperature+for+All+64+Districts+%F0%9F%93%8D;3-Day+Heat+%26+Rain+Forecast+with+Smart+Alerts+%E2%9A%A0%EF%B8%8F;Daily+Hydration+Tracker+with+Streaks+%26+Reminders+%F0%9F%92%A7;Bangla-First+Emergency+%26+First-Aid+Guide+%F0%9F%9A%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=FF6B00&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Real-Time+Feels-Like+Temperature+for+All+64+Districts+%F0%9F%93%8D;3-Day+Heat+%26+Rain+Forecast+with+Smart+Alerts+%E2%9A%A0%EF%B8%8F;Daily+Hydration+Tracker+with+Streaks+%26+Reminders+%F0%9F%92%A7;Bangla-First+Emergency+%26+First-Aid+Guide+%F0%9F%9A%A8" alt="Typing SVG"/>
 
 </div>
 
@@ -204,7 +204,7 @@ An OpenWeatherMap API key (free tier)
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,50:ff2d00,100:ff6b00&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ffb300,50:ff2d00,100:ff6b00&amp;height=120&amp;section=footer"/>
 
 **⭐ Star this repo if it helped you!**
 
