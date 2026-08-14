@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b00,50:ff2d00,100:ffb300&amp;height=220&amp;section=header&amp;text=HeatBD&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Real-Time%20Heatwave%20%26%20Health%20Safety%20Guide%20for%20Bangladesh%20%F0%9F%8C%A1%EF%B8%8F&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn"/>
 
 <br/>
 
