@@ -1,0 +1,8 @@
+{
+  "name": "HeatBD — হিটওয়েভ গাইড",
+  "short_name": "HeatBD",
+  "theme_color": "#FF2D00",
+  "background_color": "#060608",
+  "display": "standalone",
+  "start_url": "/"
+}

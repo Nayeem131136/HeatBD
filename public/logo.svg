@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <rect width="280" height="80" fill="#060608"/>
+  <defs>
+    <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#FF2D00"/>
+      <stop offset="100%" stop-color="#FF6B00"/>
+    </linearGradient>
+  </defs>
+  <!-- Flame icon -->
+  <path d="M30 65C30 65 22 55 22 45C22 38 26 34 30 28C32 25 33 20 32 15C36 20 40 26 40 33C42 30 43 26 43 23C48 30 52 38 52 47C52 57 42 65 36 65C33 65 30 63 30 65Z" fill="url(#fire)"/>
+  <path d="M33 65C33 65 28 60 28 53C28 48 31 45 34 40C36 44 39 48 39 53C41 50 42 47 42 45C45 50 47 54 47 58C47 63 42 65 38 65C35.5 65 33 64 33 65Z" fill="#FF6B00" opacity="0.7"/>
+  <!-- HeatBD text -->
+  <text x="62" y="52" font-family="Sora, sans-serif" font-weight="800" font-size="36" fill="url(#fire)">HeatBD</text>
+</svg>
