@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/badge/🌐%20GitHub-HeatBD-ff6b00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayeem131136/heatbd)
 &nbsp;
-[![Live](https://img.shields.io/badge/🔴%20Live-HEAT-BD.vercel.app-ff2d00?style=for-the-badge&logo=vercel&logoColor=white)](https://heatbd.vercel.app)
+[![Live](https://img.shields.io/badge/🔴%20Live-HEATBD.vercel.app-ff2d00?style=for-the-badge&logo=vercel&logoColor=white)](https://heatbd.vercel.app)
 &nbsp;
 [![React](https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 &nbsp;
